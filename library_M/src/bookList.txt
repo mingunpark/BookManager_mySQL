@@ -1,0 +1,17 @@
+1,"여수의사랑","한강",10000,300,0,null,null,0
+2,"82년생 김지영","조남주",11000,271,0,null,null,0
+3,"마음산책X","마음산책X",11500,570,0,null,null,0
+4,"나미야잡화점의기적","히가시노 게이고",13000,366,0,null,null,0
+5,"미스터하이든","사샤 이랑고",11700,442,0,null,null,0
+6,"기린의날개","히가시노 게이고",15120,475,0,null,null,0
+7,"동급생","프레드 올드만",9720,211,1,gusdn8822,2017년05월14일,0
+
+
+
+INSERT INTO `library`.`book` (`index`, `title`, `author`, `price`, `page`, `borrowed`) VALUES ('1', '여수의 사랑', '한강', '10000', '300', '0');
+INSERT INTO `library`.`book` (`index`, `title`, `author`, `price`, `page`, `borrowed`) VALUES ('2', '82년생 김지영', '조남주', '11000', '271', '0');
+INSERT INTO `library`.`book` (`index`, `title`, `author`, `price`, `page`, `borrowed`) VALUES ('3', '마음산책X', '마음산책X', '11500', '570', '0');
+INSERT INTO `library`.`book` (`index`, `title`, `author`, `price`, `page`, `borrowed`) VALUES ('4', '나미야잡화점의기적', '히가시노 게이고', '13000', '366', '0');
+INSERT INTO `library`.`book` (`index`, `title`, `author`, `price`, `page`, `borrowed`) VALUES ('5', '미스터 하이든', '사샤 이랑고', '11700', '442', '0');
+INSERT INTO `library`.`book` (`index`, `title`, `author`, `price`, `page`, `borrowed`) VALUES ('6', '기린의 날개', '히가시노 게이고', '15120', '475', '0');
+INSERT INTO `library`.`book` (`index`, `title`, `author`, `price`, `page`, `borrowed`) VALUES ('7', '동급생', '프레드 올드만', '9720', '211', '0');
